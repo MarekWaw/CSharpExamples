@@ -12,5 +12,8 @@
            <cust num="C1003">
               <prodsale idref="p1">75</prodsale>
               <prodsale idref="p2">15</prodsale></cust>
+           <cust num="C1003">
+              <prodsale idref="p1">75</prodsale>
+              <prodsale idref="p2">15</prodsale></cust>
     </record>
 </sales>
