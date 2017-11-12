@@ -1,0 +1,1 @@
+awk -v we=%1 -f testCommand.awk
