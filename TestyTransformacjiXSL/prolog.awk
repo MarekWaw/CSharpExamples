@@ -21,5 +21,8 @@ BEGIN 	{ daneWyH = wyHead;
           }
           close(daneWyF);
           close(daneWyH);
-          print "Koniec"
+          print "Koniec";
 	}
+END	{
+    print "Koniec...";
+}    
